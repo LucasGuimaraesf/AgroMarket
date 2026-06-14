@@ -1,10 +1,5 @@
 package main;
 
-//Alunos: 
-//Ana Julia de Oliveira Rabelo - Matrícula: 1250207762
-//Lucas Guimarães Fabrício - Matrícula: 1250111347
-//Lucas Emanuel de Souza Santos - Matrícula: 1250124354
-
 import exceptions.EncomendaCancelamentoException;
 import exceptions.EstoqueInsuficienteException;
 import exceptions.FeiraJaAbertaException;
